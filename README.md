@@ -1,6 +1,6 @@
 # report_app
 
-A new Flutter project.
+Flutter project of AI Course.
 
 ## Getting Started
 
